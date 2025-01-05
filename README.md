@@ -1,3 +1,2 @@
-# Leetcode-Solutions
-let's leetcode 
-This repository conatains solutions to all the Leetcode problems I have solved
+# Leetcode-Solutions 
+This repository contains solutions to all the Leetcode problems I have solved
