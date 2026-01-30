@@ -11,6 +11,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -30,4 +31,12 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
