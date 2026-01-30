@@ -49,6 +49,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0031-next-permutation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +59,5 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
