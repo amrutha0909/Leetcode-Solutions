@@ -33,6 +33,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Array
 |  |
@@ -109,4 +111,8 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
