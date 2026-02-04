@@ -92,6 +92,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
