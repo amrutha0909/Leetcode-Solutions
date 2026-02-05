@@ -67,6 +67,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -82,6 +83,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0004-median-of-two-sorted-arrays](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
