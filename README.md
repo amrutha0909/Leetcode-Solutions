@@ -19,6 +19,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
@@ -56,6 +57,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
