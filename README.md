@@ -19,6 +19,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0583-delete-operation-for-two-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
@@ -59,6 +60,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0300-longest-increasing-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
