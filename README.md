@@ -120,6 +120,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -131,6 +132,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
