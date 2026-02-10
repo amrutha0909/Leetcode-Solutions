@@ -28,6 +28,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -37,6 +38,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -179,4 +181,5 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
