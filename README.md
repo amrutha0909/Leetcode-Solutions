@@ -11,6 +11,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0142-linked-list-cycle-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 ## String
 |  |
@@ -39,6 +40,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0155-min-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -85,6 +87,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0162-find-peak-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
@@ -182,4 +185,8 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0155-min-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
