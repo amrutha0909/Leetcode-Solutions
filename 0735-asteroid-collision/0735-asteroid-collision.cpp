@@ -7,7 +7,7 @@ public:
                 st.push(asteroids[i]);
             }
             else{
-                while(!st.empty()&&st.top()!=0&&abs(asteroids[i])>st.top()){
+                while(!st.empty()&&st.top()>0&&abs(asteroids[i])>st.top()){
                     st.pop();
                 }
                 if(!st.empty()&&abs(asteroids[i])==st.top()){
