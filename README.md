@@ -44,6 +44,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -193,14 +194,20 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0155-min-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0134-gas-station) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
