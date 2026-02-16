@@ -11,7 +11,7 @@ public:
             int steps=it.second;
             q.pop();
             if(word==endWord)return steps;
-            for(int i=0;i<s.size();i++){
+            for(int i=0;i<word.size();i++){
                 char original=word[i];
                 for(char c='a';c<='z';c++){
                     word[i]=c;
