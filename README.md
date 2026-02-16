@@ -113,6 +113,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0004-median-of-two-sorted-arrays](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
