@@ -21,6 +21,7 @@ public:
         return 1+max(left,right);
     }
     bool isBalanced(TreeNode* root) {
-        return height(root)!=-1;
+        if(height(root)==-1)return false;
+        return true;
     }
 };
