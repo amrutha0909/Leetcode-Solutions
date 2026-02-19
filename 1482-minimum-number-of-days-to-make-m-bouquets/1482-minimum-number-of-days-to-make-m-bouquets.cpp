@@ -1,10 +1,9 @@
 class Solution {
 public:
     bool isPossible(vector<int>& nums, int m, int k, int days){
-        int bouquet=0;
         int flower=0;
-        int i=0;
-        while(i<nums.size()){
+        int bouquet=0;
+        for(int i=0;i<nums.size();i++){
             if(nums[i]<=days){
                 flower++;
                 if(flower==k){
@@ -15,7 +14,6 @@ public:
             else{
                 flower=0;
             }
-            i++;
         }
         return bouquet>=m;
     }
@@ -23,7 +21,6 @@ public:
         int low=*min_element(bloomDay.begin(),bloomDay.end());
         int high=*max_element(bloomDay.begin(),bloomDay.end());
         int ans=-1;
-        if(bloomDay.size()<(long long)m*k)return -1;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(isPossible(bloomDay,m,k,mid)){
