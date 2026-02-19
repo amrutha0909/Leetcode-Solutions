@@ -115,6 +115,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0735-asteroid-collision](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0875-koko-eating-bananas](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -141,6 +142,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0300-longest-increasing-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
