@@ -124,6 +124,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0503-next-greater-element-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
@@ -158,6 +159,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -200,12 +202,14 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Memoization
