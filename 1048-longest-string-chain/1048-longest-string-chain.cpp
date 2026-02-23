@@ -1,10 +1,10 @@
 class Solution {
 public:
-    static bool compare(const string&s1, const string&s2){
-        return s1.length()<s2.length();
-    }
+
     int longestStrChain(vector<string>& words) {
-        sort(words.begin(),words.end(),compare);
+        sort(words.begin(),words.end(),[](const string &a, const string &b){
+            return a.length()<b.length();
+        });
         unordered_map<string,int>dp;
         int res=0;
         for(string word:words){
