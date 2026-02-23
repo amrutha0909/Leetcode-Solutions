@@ -99,6 +99,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0322-coin-change](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -123,6 +124,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0215-kth-largest-element-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
