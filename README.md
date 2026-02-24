@@ -264,6 +264,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0337-house-robber-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -303,6 +304,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0226-invert-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -367,10 +369,12 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Heap (Priority Queue)
 |  |
