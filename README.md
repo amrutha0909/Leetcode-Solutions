@@ -7,6 +7,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -25,6 +26,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -212,6 +214,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
