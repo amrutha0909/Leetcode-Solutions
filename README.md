@@ -268,6 +268,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0098-validate-binary-search-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -315,6 +316,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0102-binary-tree-level-order-traversal](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -390,6 +392,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Heap (Priority Queue)
@@ -405,4 +408,8 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
