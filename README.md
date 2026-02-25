@@ -25,6 +25,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
@@ -92,6 +93,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -214,6 +216,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
@@ -359,6 +362,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
