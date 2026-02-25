@@ -46,6 +46,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1143-longest-common-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
 ## Queue
 |  |
 | ------- |
