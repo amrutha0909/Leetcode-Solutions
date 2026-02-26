@@ -24,6 +24,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0072-edit-distance) |
@@ -111,6 +112,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
@@ -238,6 +240,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
