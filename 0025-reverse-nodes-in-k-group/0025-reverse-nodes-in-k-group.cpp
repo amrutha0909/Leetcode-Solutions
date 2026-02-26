@@ -22,17 +22,17 @@ public:
         node=temp;
         return prev;
     }
-    ListNode* reverseKGroup(ListNode* head, int k) {  
-        if(!head||k==1)return head;     
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        if(!head || k==1)return head;
         ListNode*temp=head;
         ListNode*newHead=nullptr;
         ListNode*prevTail=nullptr;
         while(temp){
+            ListNode*curr=temp;
             int cnt=0;
-            ListNode*check=temp;
-            while(cnt<k&&check){
+            while(cnt<k && curr){
                 cnt++;
-                check=check->next;
+                curr=curr->next;
             }
             if(cnt<k)break;
             ListNode*groupStart=temp;
