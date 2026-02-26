@@ -64,6 +64,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0155-min-stack) |
@@ -88,6 +89,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -109,6 +111,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -134,6 +137,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0027-remove-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -377,6 +381,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
