@@ -1,27 +1,25 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if(s.size()<t.size())return "";
+        int left=0;
+        int target=t.size();
         unordered_map<char,int>mpp;
         for(char c:t){
             mpp[c]++;
         }
-        int target=t.size();
-        int left=0;
         int minWindow[2]={0,INT_MAX};
         for(int right=0;right<s.size();right++){
-            char c=s[right];
-            if(mpp.find(c)!=mpp.end()&&mpp[c]>0){
+            if(mpp.find(s[right])!=mpp.end() && mpp[s[right]]>0){
                 target--;
             }
-            mpp[c]--;
+            mpp[s[right]]--;
             if(target==0){
                 while(true){
-                    char charStart=s[left];
-                    if(mpp.find(charStart)!=mpp.end()&&mpp[charStart]==0){
+                    char c=s[left];
+                    if(mpp.find(c)!=mpp.end() && mpp[c]==0){
                         break;
                     }
-                    mpp[charStart]++;
+                    mpp[c]++;
                     left++;
                 }
                 if(right-left<minWindow[1]-minWindow[0]){
