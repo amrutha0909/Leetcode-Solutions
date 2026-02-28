@@ -29,6 +29,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
