@@ -19,6 +19,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -65,6 +66,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
@@ -183,6 +185,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -269,6 +272,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0239-sliding-window-maximum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
