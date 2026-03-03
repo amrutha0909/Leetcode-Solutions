@@ -160,6 +160,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0041-first-missing-positive](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -234,6 +235,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0494-target-sum) |
