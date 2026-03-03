@@ -30,6 +30,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0010-regular-expression-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
@@ -127,6 +128,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
@@ -235,6 +237,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0047-permutations-ii) |
