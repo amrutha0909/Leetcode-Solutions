@@ -242,6 +242,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0046-permutations](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Matrix
