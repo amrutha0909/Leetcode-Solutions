@@ -173,6 +173,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -245,6 +246,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0051-n-queens](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Matrix
@@ -451,6 +453,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0078-subsets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
