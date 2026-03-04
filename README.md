@@ -39,6 +39,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0058-length-of-last-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -173,6 +174,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0064-minimum-path-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -251,6 +253,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0051-n-queens](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -259,6 +262,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0054-spiral-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -342,6 +346,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
