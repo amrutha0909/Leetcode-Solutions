@@ -169,6 +169,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0054-spiral-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -243,6 +244,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0047-permutations-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Matrix
@@ -448,6 +450,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
