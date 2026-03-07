@@ -107,6 +107,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0009-palindrome-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -307,6 +308,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0024-swap-nodes-in-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
