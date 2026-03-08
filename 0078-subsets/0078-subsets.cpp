@@ -9,8 +9,8 @@ public:
         }
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>result;
         vector<int>temp;
+        vector<vector<int>>result;
         backtrack(0,nums,temp,result);
         return result;
     }
