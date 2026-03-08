@@ -11,8 +11,8 @@ public:
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        vector<vector<int>>result;
         vector<int>temp;
+        vector<vector<int>>result;
         backtrack(0,nums,temp,result);
         return result;
     }
