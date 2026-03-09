@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isSafe(vector<string>&board, int row, int col, int n){// O(n)
+    bool couldPlace(int row, int col, vector<string>&board,int n){
         for(int i=0;i<n;i++){
             if(board[i][col]=='Q')return false;
         }
@@ -10,29 +10,28 @@ public:
         for(int i=row,j=col;i>=0&&j>=0;i--,j--){
             if(board[i][j]=='Q')return false;
         }
-        for(int i=row,j=col;i>=0 && j<n; i--,j++){
+        for(int i=row,j=col;i>=0&&j<n;i--,j++){
             if(board[i][j]=='Q')return false;
         }
         return true;
     }
-    void solve(vector<string>&board, vector<vector<string>>&ans, int row, int n){
+    void backtrack(vector<string>&board,vector<vector<string>>&ans,int row,int n){
         if(row==n){
-            ans.push_back({board});
+            ans.push_back(board);
             return;
         }
         for(int j=0;j<n;j++){
-            if(isSafe(board,row,j,n)){
+            if(couldPlace(row,j,board,n)){
                 board[row][j]='Q';
-                solve(board,ans,row+1,n);
+                backtrack(board,ans,row+1,n);
                 board[row][j]='.';
             }
         }
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>>result;
-        vector<string>board(n, string(n,'.'));
+        vector<string>board(n,string(n,'.'));
         vector<vector<string>>ans;
-        solve(board,ans,0,n);
+        backtrack(board,ans,0,n);
         return ans;
     }
 };
