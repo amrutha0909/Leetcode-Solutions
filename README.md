@@ -6,6 +6,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -170,6 +171,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0027-remove-element) |
