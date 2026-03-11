@@ -55,6 +55,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0125-valid-palindrome](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -285,6 +286,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0079-word-search](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Matrix
 |  |
@@ -444,6 +446,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
