@@ -13,7 +13,6 @@ class Solution {
 public:
     vector<int>inorder;
     void inorderList(TreeNode*root){
-        if(!root)return;
         if(root->left)inorderList(root->left);
         inorder.push_back(root->val);
         if(root->right)inorderList(root->right);
@@ -25,8 +24,8 @@ public:
         int r=inorder.size()-1;
         while(l<=r){
             if(inorder[l]+inorder[r]==k)return true;
-            else if(inorder[l]+inorder[r]>k)l++;
-            else r--;
+            else if(inorder[l]+inorder[r]>k)r--;
+            else l++;
         }
         return false;
     }
