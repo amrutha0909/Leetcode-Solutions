@@ -22,7 +22,7 @@ public:
         inorderList(root);
         int l=0;
         int r=inorder.size()-1;
-        while(l<=r){
+        while(l<r){
             if(inorder[l]+inorder[r]==k)return true;
             else if(inorder[l]+inorder[r]>k)r--;
             else l++;
