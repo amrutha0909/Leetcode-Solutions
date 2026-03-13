@@ -18,6 +18,6 @@ public:
     }
     bool isValidBST(TreeNode* root) {
         if(!root)return true;
-        return isValid(root,INT_MIN,INT_MAX);
+        return isValid(root,LONG_MIN,LONG_MAX);
     }
 };
