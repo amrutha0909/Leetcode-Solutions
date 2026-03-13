@@ -17,7 +17,6 @@ public:
         return isValid(root->left,minVal,root->val)&&isValid(root->right,root->val,maxVal);
     }
     bool isValidBST(TreeNode* root) {
-        if(!root)return true;
         return isValid(root,LONG_MIN,LONG_MAX);
     }
 };
