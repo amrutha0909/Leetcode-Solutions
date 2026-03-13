@@ -117,6 +117,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +241,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3637-trionic-array-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 ## Divide and Conquer
 |  |
@@ -272,6 +274,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -511,6 +514,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0134-gas-station](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Data Stream
 |  |
 | ------- |
@@ -556,6 +560,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0023-merge-k-sorted-lists](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Quickselect
 |  |
 | ------- |
