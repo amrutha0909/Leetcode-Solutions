@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    bool isValid(TreeNode*root, int minVal, int maxVal){
+    bool isValid(TreeNode*root, long minVal, long maxVal){
         if(!root)return true;
         if(root->val<=minVal || root->val>=maxVal)return false;
         return isValid(root->left,minVal,root->val)&&isValid(root->right,root->val,maxVal);
