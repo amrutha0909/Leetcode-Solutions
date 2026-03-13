@@ -11,14 +11,17 @@
  */
 class Solution {
 public:
-    vector<int>inorder;
-    void inorderTraversal(TreeNode*root){
-        if(root->left)inorderTraversal(root->left);
-        inorder.push_back(root->val);
-        if(root->right)inorderTraversal(root->right);
+    vector<int>t;
+    vector<int>inorder(TreeNode*root){
+        if(root){
+            inorder(root->left);
+            t.push_back(root->val);
+            inorder(root->right);
+        }
+        return t;
     }
-    int kthSmallest(TreeNode* root, int k) {
-        inorderTraversal(root);
-        return inorder[k-1];
+    int kthSmallest(TreeNode* root, int k) { 
+        inorder(root);       
+        return t[k-1];
     }
 };
