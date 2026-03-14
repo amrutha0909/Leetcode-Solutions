@@ -239,6 +239,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0980-unique-paths-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -301,6 +302,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0126-word-ladder-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0980-unique-paths-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Matrix
 |  |
@@ -313,6 +315,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0085-maximal-rectangle](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
@@ -546,6 +549,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0980-unique-paths-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
