@@ -11,11 +11,11 @@
  */
 class Solution {
 public:
-    TreeNode*findMin(TreeNode*root){
-        while(root && root->left){
-            root=root->left;
+    TreeNode*findMin(TreeNode*node){
+        while(node && node->left){
+            node=node->left;
         }
-        return root;
+        return node;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root)return nullptr;
@@ -36,9 +36,11 @@ public:
                 delete root;
                 return temp;
             }
-            TreeNode*temp=findMin(root->right);
-            root->val=temp->val;
-            root->right=deleteNode(root->right,temp->val);    
+            else{
+                TreeNode*temp=findMin(root->right);
+                root->val=temp->val;
+                root->right=deleteNode(root->right,temp->val);
+            }
         }
         return root;
     }
