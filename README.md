@@ -20,6 +20,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -59,6 +60,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0125-valid-palindrome](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -176,6 +178,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0097-interleaving-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -225,6 +228,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0162-find-peak-element) |
@@ -383,6 +387,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -638,5 +643,6 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
