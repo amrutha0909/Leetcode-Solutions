@@ -427,6 +427,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0133-clone-graph](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -495,6 +496,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -592,6 +594,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -613,6 +616,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 ## String Matching
 |  |
