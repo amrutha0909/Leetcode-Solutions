@@ -11,23 +11,23 @@
  */
 class Solution {
 public:
+    vector<int>pre;
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int>preorder;
         TreeNode*curr=root;
         while(curr){
             if(curr->left==nullptr){
-                preorder.push_back(curr->val);
+                pre.push_back(curr->val);
                 curr=curr->right;
             }
-            else if(curr->left!=nullptr){
+            else{
                 TreeNode*prev=curr->left;
-                while(prev->right && prev->right!=curr){
+                while(prev->right&&prev->right!=curr){
                     prev=prev->right;
                 }
                 if(prev->right==nullptr){
                     prev->right=curr;
-                    preorder.push_back(curr->val);  
-                    curr=curr->left;    
+                    pre.push_back(curr->val);
+                    curr=curr->left;
                 }
                 else{
                     prev->right=nullptr;
@@ -35,6 +35,6 @@ public:
                 }
             }
         }
-        return preorder;
+        return pre;
     }
 };
