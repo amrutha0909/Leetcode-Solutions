@@ -26,7 +26,7 @@ public:
             for(int i=0;i<4;i++){
                 int nx=x+dX[i];
                 int ny=y+dY[i];
-                if(nx>=0&&nx<n&&ny>=0&&ny<n&&!visited[nx][ny]){
+                if(nx>=0&&nx<n&&ny>=0&&ny<m&&!visited[nx][ny]){
                     visited[nx][ny]=true;
                     q.push({{nx,ny},steps+1});
                 }
