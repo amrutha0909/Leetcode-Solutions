@@ -265,6 +265,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -347,6 +348,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0733-flood-fill](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -478,6 +480,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -545,6 +548,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
@@ -630,6 +634,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
