@@ -491,6 +491,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1192-critical-connections-in-a-network](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -658,6 +659,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -696,4 +698,8 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
