@@ -19,14 +19,20 @@ public:
             count++;
             temp=temp->next;
         }
-        if(count==1&&n==1)return nullptr;
+        if(count==1)return nullptr;
+        if(count==n){
+            ListNode*t=head;
+            head=head->next;
+            delete t;
+            return head;
+        }
         if(count<n)return head;
-        int pos=count-n;
+        int pos=count-n+1;
         temp=head;
-        for(int i=1;i<=pos-1;i++){
+        for(int i=1;i<pos-1;i++){
             temp=temp->next;
         }
-        if(temp->next&&temp->next->next)temp->next=temp->next->next;
+        if(temp&&temp->next&&temp->next->next)temp->next=temp->next->next;
         else temp->next=nullptr;
         return head;
     }
