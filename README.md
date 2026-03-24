@@ -504,6 +504,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -575,6 +576,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
 |  |
@@ -663,6 +665,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0721-accounts-merge](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -673,6 +676,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
