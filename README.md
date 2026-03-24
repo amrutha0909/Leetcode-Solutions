@@ -198,6 +198,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Array
@@ -677,6 +678,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -715,6 +717,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Biconnected Component
 |  |
 | ------- |
