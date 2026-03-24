@@ -1,16 +1,32 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        vector<int>dp(nums.size(),1);
-        int maxi=1;
-        for(int i=0;i<nums.size();i++){
-            for(int j=0;j<i;j++){
-                if(nums[j]<nums[i]){
-                    dp[i]=max(dp[j]+1,dp[i]);
+        vector<int> sub; // stores the "smallest tail" of increasing subsequences
+
+        for (int num : nums) {
+            int i = 0, j = sub.size() - 1;
+            int pos = sub.size(); // default: append to sub if num is bigger than all
+
+            // Simple binary search to find first element >= num
+            while (i <= j) {
+                int mid = (i + j) / 2;
+                if (sub[mid] >= num) {
+                    pos = mid;   // found a candidate to replace
+                    j = mid - 1;
+                } else {
+                    i = mid + 1;
                 }
             }
-            maxi=max(maxi,dp[i]);
+
+            if (pos == sub.size()) {
+                // num is bigger than all → append
+                sub.push_back(num);
+            } else {
+                // replace to keep subsequence "tail" small
+                sub[pos] = num;
+            }
         }
-        return maxi;
+
+        return sub.size(); // length of LIS
     }
 };
