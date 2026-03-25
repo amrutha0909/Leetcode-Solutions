@@ -7,7 +7,7 @@ public:
             int mid=low+(high-low)/2;
             if(nums[mid]==target)return mid;
             else if(nums[mid]<=nums[high]){
-                if(target>=nums[mid]&&target<=nums[high]){
+                if(target<=nums[high]&&target>=nums[mid]){
                     low=mid+1;
                 }
                 else{
