@@ -295,6 +295,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 ## Divide and Conquer
 |  |
@@ -380,6 +381,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [2906-construct-product-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Simulation
 |  |
 | ------- |
@@ -434,6 +436,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [2906-construct-product-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Memoization
 |  |
 | ------- |
@@ -739,4 +742,8 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
