@@ -1,41 +1,39 @@
 class Solution {
 public:
-    void NSE(vector<int>histogram, vector<int>&nse){
-        stack<int>st;
-        int n=histogram.size();
-        for(int i=n-1;i>=0;i--){
-            while(!st.empty() && histogram[st.top()]>=histogram[i]){
-                st.pop();
-            }
-            if(st.empty())nse[i]=n;
-            else nse[i]=st.top();
-            st.push(i);
-        }
-        
-    }
-    void PSE(vector<int>histogram, vector<int>&pse){
-        stack<int>st;
-        int n=histogram.size();
-        for(int i=0;i<n;i++){
-            while(!st.empty() && histogram[st.top()]>=histogram[i]){
-                st.pop();
-            }
-            if(st.empty())pse[i]=-1;
-            else pse[i]=st.top();
-            st.push(i);
+    void PSE(vector<int>&hist,vector<int>&pse){
+        stack<int>stk;
+        stk.push(0);
+        pse[0]=-1;
+        for(int i=1;i<hist.size();i++){
+            while(!stk.empty()&&hist[stk.top()]>=hist[i])stk.pop();
+            if(stk.empty())pse[i]=-1;
+            else pse[i]=stk.top();
+            stk.push(i);
         }
     }
-    int lHist(vector<int>histogram){
-        int n=histogram.size();
-        int maxi=0;
+    void NSE(vector<int>&hist,vector<int>&nse){
+        stack<int>stk;
+        int n=nse.size();
+        stk.push(n-1);
+        nse[n-1]=n;
+        for(int i=n-2;i>=0;i--){
+            while(!stk.empty()&&hist[stk.top()]>=hist[i])stk.pop();
+            if(stk.empty())nse[i]=n;
+            else nse[i]=stk.top();
+            stk.push(i);
+        }
+    }
+    int lHist(vector<int>hist){
+        int maxArea=0;
+        int n=hist.size();
         vector<int>nse(n);
         vector<int>pse(n);
-        NSE(histogram,nse);
-        PSE(histogram,pse);
+        NSE(hist,nse);
+        PSE(hist,pse);
         for(int i=0;i<n;i++){
-            maxi=max(maxi,histogram[i]*(nse[i]-pse[i]-1));
+            maxArea=max(maxArea,hist[i]*(nse[i]-pse[i]-1));
         }
-        return maxi;
+        return maxArea;
     }
     int maximalRectangle(vector<vector<char>>& matrix) {
         int n=matrix.size();
@@ -50,10 +48,10 @@ public:
                 prefixSum[i][j]=sum;
             }
         }
-        int maxArea=0;
+        int maxi=0;
         for(int i=0;i<n;i++){
-            maxArea=max(maxArea,lHist(prefixSum[i]));
+            maxi=max(maxi,lHist(prefixSum[i]));
         }
-        return maxArea;
+        return maxi;
     }
 };
