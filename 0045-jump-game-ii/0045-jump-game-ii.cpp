@@ -1,18 +1,29 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int near=0;
-        int far=0;
-        int jumps=0;
-        while(far<nums.size()-1){
-            int farthest=0;
-            for(int i=near;i<=far;i++){
-                farthest=max(farthest,nums[i]+i);    
+        int n=nums.size();
+        queue<pair<int,int>>q;
+        q.push({0,0});
+        vector<bool>visited(n,false);
+        visited[0]=true;
+        while(!q.empty()){
+            int s=q.size();
+            while(s--){
+                auto it=q.front();
+                q.pop();
+                int node=it.first;
+                int count=it.second;
+                int steps=nums[node];
+                if(node==n-1)return count;
+                for(int i=1;i<=steps;i++){
+                    int neigh=node+i;
+                    if(neigh<n&&!visited[neigh]){
+                        visited[neigh]=true;
+                        q.push({neigh,count+1});
+                    }
+                }
             }
-            near=far+1;
-            far=farthest;
-            jumps++;
         }
-        return jumps;
+        return -1;
     }
 };
