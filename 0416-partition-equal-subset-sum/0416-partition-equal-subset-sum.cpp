@@ -11,7 +11,7 @@ public:
         for(int num:nums){
             unordered_set<int>newSum=possibleSums;
             for(int s:possibleSums){
-                if(s+num==target)return true;
+                if(num+s==target)return true;
                 newSum.insert(s+num);
             }
             possibleSums=newSum;
