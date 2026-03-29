@@ -4,7 +4,8 @@ public:
         int n=s.size();
         vector<int>dp(n+1,0);
         if(s[0]=='0')return 0;
-        dp[0]=dp[1]=1;
+        dp[0]=1;//one way to decode empty string
+        dp[1]=1;//one way to decode 1 character
         for(int i=2;i<=n;i++){
             int one=s[i-1]-'0';
             int two=stoi(s.substr(i-2,2));
