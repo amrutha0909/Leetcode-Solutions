@@ -204,6 +204,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0518-coin-change-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
@@ -281,6 +282,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0733-flood-fill](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
