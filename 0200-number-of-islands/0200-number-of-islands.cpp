@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(int i, int j,vector<vector<char>>&grid, vector<vector<bool>>&visited){
+    void dfs(int i, int j, vector<vector<char>>&grid,vector<vector<bool>>&visited){
         visited[i][j]=true;
         int n=grid.size();
         int m=grid[0].size();
@@ -9,18 +9,16 @@ public:
         for(int k=0;k<4;k++){
             int nx=i+dX[k];
             int ny=j+dY[k];
-            if(nx>=0&&nx<n&&ny>=0&&ny<m&&grid[nx][ny]=='1' &&!visited[nx][ny]){
+            if(nx>=0&&nx<n&&ny>=0&&ny<m&&!visited[nx][ny]&&grid[nx][ny]=='1'){
                 dfs(nx,ny,grid,visited);
             }
         }
     }
     int numIslands(vector<vector<char>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
-        vector<vector<bool>>visited(n,vector<bool>(m,false));
+        vector<vector<bool>>visited(grid.size(),vector<bool>(grid[0].size(),false));
         int count=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        for(int i=0;i<grid.size();i++){
+            for(int j=0;j<grid[0].size();j++){
                 if(!visited[i][j]&&grid[i][j]=='1'){
                     count++;
                     dfs(i,j,grid,visited);
