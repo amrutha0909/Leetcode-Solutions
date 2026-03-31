@@ -1,10 +1,6 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        // int total=0;
-        // for(int num:nums){
-        //     total+=num;
-        // }
         int maxLen=0;
         int maxFreq=0;
         unordered_map<int,int>mpp;
