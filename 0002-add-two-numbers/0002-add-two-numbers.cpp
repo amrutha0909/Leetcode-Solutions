@@ -1,37 +1,48 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    void insertAtEnd(ListNode*& head, int val) {
-        ListNode* newNode = new ListNode(val);
-        if (!head) {
-            head = newNode;
+    void insertEnd(ListNode*head,int value){
+        ListNode*node=new ListNode(value);
+        if(!head){
+            head=node;
             return;
         }
-        ListNode* curr = head;
-        while (curr->next) {
-            curr = curr->next;
+        ListNode*temp=head;
+        while(temp->next){
+            temp=temp->next;
         }
-        curr->next = newNode;
+        temp->next=node;
     }
-
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* head = nullptr;
-        int carry = 0;
-
-        while (l1 || l2 || carry) {
-            int sum = carry;
-            if (l1) {
-                sum += l1->val;
-                l1 = l1->next;
+        int carry=0;
+        ListNode*dummy=new ListNode(-1);
+        while(l1||l2||carry){
+            int sum=carry;
+            if(l1){
+                sum+=l1->val;
+                l1=l1->next;
             }
-            if (l2) {
-                sum += l2->val;
-                l2 = l2->next;
+            if(l2){
+                sum+=l2->val;
+                l2=l2->next;
             }
-
-            carry = sum / 10;
-            insertAtEnd(head, sum % 10);
+            int value=(sum)%10;
+            carry=sum/10;
+            insertEnd(dummy,value);
         }
-
-        return head;
+        while(carry>0){
+            insertEnd(dummy,carry%10);
+            carry/=10;
+        }
+        return dummy->next;
     }
 };
