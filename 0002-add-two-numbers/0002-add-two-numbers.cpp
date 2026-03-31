@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    void insertEnd(ListNode*head,int value){
+    void insertEnd(ListNode*&head,int value){
         ListNode*node=new ListNode(value);
         if(!head){
             head=node;
@@ -24,7 +24,7 @@ public:
     }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         int carry=0;
-        ListNode*dummy=new ListNode(-1);
+        ListNode*head=nullptr;
         while(l1||l2||carry){
             int sum=carry;
             if(l1){
@@ -37,12 +37,8 @@ public:
             }
             int value=(sum)%10;
             carry=sum/10;
-            insertEnd(dummy,value);
+            insertEnd(head,value);
         }
-        while(carry>0){
-            insertEnd(dummy,carry%10);
-            carry/=10;
-        }
-        return dummy->next;
+        return head;
     }
 };
