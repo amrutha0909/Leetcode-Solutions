@@ -8,10 +8,7 @@ public:
             d_mpp[positions[i]]=directions[i];
         }
         vector<int>ori=positions;
-        //unordered_map<int,int>original;
-        // for(int i=0;i<positions.size();i++){
-        //     original[positions[i]]=i;
-        // }
+
         sort(positions.begin(),positions.end());
         stack<int>st;
         for(int i=0;i<positions.size();i++){
@@ -22,12 +19,10 @@ public:
                 while(!st.empty()&&d_mpp[positions[st.top()]]=='R'){
                     if(h_mpp[positions[st.top()]]<h_mpp[positions[i]]){
                         h_mpp[positions[i]]--;
-                        //original.erase(positions[st.top()]);
                         h_mpp.erase(positions[st.top()]);
                         st.pop();
                     }
                     else if(h_mpp[positions[st.top()]]>h_mpp[positions[i]]){
-                        //original.erase(positions[i]);
                         h_mpp.erase(positions[i]);
                         h_mpp[positions[st.top()]]--;
                         break;
@@ -35,8 +30,6 @@ public:
                     else{
                         h_mpp.erase(positions[st.top()]);
                         h_mpp.erase(positions[i]);
-                        //original.erase(positions[st.top()]);
-                        //original.erase(positions[i]);
                         st.pop();
                         break;
                     }
