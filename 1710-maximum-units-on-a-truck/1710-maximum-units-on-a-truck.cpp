@@ -6,20 +6,12 @@ public:
     int maximumUnits(vector<vector<int>>& boxTypes, int truckSize) {
         sort(boxTypes.begin(),boxTypes.end(),compare);
         int total=0;
-        int count=0;
-        for(auto it:boxTypes){
-            int currSize=it[0];
-            int currCount=0;
-            while(count<truckSize){
-                if(currCount<currSize){
-                    total+=it[1];
-                    currCount++;
-                    count++;
-                }
-                else if(currCount==currSize){
-                    break;
-                }
-            }
+        for(auto&it:boxTypes){
+            int boxes=it[0];
+            int units=it[1];
+            int take=min(truckSize,boxes);
+            total+=take*units;
+            truckSize-=take;
         }
         return total;
     }
