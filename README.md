@@ -303,6 +303,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0540-single-element-in-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -370,6 +371,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
