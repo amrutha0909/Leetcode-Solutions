@@ -300,6 +300,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0532-k-diff-pairs-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -411,6 +412,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
@@ -562,6 +564,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0743-network-delay-time) |
@@ -638,6 +641,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0542-01-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0743-network-delay-time) |
@@ -749,6 +753,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0130-surrounded-regions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
