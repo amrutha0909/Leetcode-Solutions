@@ -30,6 +30,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0347-top-k-frequent-elements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -82,6 +83,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0392-is-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0472-concatenated-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -469,6 +471,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0076-minimum-window-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
