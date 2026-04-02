@@ -26,6 +26,7 @@ public:
                         int curr_obs=grid[nx][ny]==1?1:0;
                         int next_k=obs-curr_obs;
                         if(next_k>=0&&!visited[nx][ny][next_k]){
+                            visited[nx][ny][next_k]=true;
                             q.push({dist+1,next_k,nx,ny});
                         }
                     }
