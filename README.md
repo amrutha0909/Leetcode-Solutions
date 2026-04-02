@@ -75,6 +75,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -400,6 +401,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0257-binary-tree-paths](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
@@ -527,6 +529,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -564,6 +567,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -612,6 +616,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
