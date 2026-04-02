@@ -13,13 +13,15 @@ public:
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
         if(!root)return "";
+        string ans="";
         queue<TreeNode*>q;
         q.push(root);
-        string ans="";
         while(!q.empty()){
-            TreeNode*node=q.front();
+            auto node=q.front();
             q.pop();
-            if(node==nullptr)ans.append("#,");
+            if(node==nullptr){
+                ans.append("#,");
+            }
             else ans.append(to_string(node->val)+',');
             if(node){
                 q.push(node->left);
@@ -39,21 +41,21 @@ public:
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
-            TreeNode*node=q.front();
+            auto node=q.front();
             q.pop();
             getline(s,str,',');
             if(str=="#")node->left=nullptr;
             else{
                 TreeNode*leftNode=new TreeNode(stoi(str));
                 node->left=leftNode;
-                q.push(leftNode);
+                q.push(node->left);
             }
             getline(s,str,',');
             if(str=="#")node->right=nullptr;
             else{
                 TreeNode*rightNode=new TreeNode(stoi(str));
                 node->right=rightNode;
-                q.push(rightNode);
+                q.push(node->right);
             }
         }
         return root;
