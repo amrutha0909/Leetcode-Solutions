@@ -1,18 +1,13 @@
 class Solution {
 public:
-    void helper(vector<int>&dp, int n){
-        int total=0;
-        for(int i=1;i<=n;i++){
-            total+=dp[i-1]*dp[n-i];
-        }
-        dp[n]=total;
-    }
     int numTrees(int n) {
         vector<int>dp(n+1,0);
-        dp[0] = 1;
-        dp[1] = 1;
-        for(int i=2;i<=n;i++){
-            helper(dp,i);
+        dp[0]=1;
+        dp[1]=1;
+        for(int nodes=2;nodes<=n;nodes++){
+            for(int root=1;root<=nodes;root++){
+                dp[nodes]+=dp[root-1]*dp[nodes-root];
+            }
         }
         return dp[n];
     }
