@@ -1,29 +1,27 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int n=nums.size();
-        queue<pair<int,int>>q;
-        q.push({0,0});
-        vector<bool>visited(n,false);
-        visited[0]=true;
+        queue<int>q;
+        q.push(0);
+        int ans=0;
+        vector<bool>visited(nums.size(),false);
         while(!q.empty()){
-            int s=q.size();
-            while(s--){
-                auto it=q.front();
+            int len=q.size();
+            for(int i=0;i<len;i++){
+                int index=q.front();
                 q.pop();
-                int node=it.first;
-                int count=it.second;
-                int steps=nums[node];
-                if(node==n-1)return count;
-                for(int i=1;i<=steps;i++){
-                    int neigh=node+i;
-                    if(neigh<n&&!visited[neigh]){
-                        visited[neigh]=true;
-                        q.push({neigh,count+1});
+                if(index==nums.size()-1)return ans;
+                visited[index]=true;
+                int steps=nums[index];
+                for(int i=index;i<=index+steps;i++){
+                    if(i<nums.size()&&!visited[i]){
+                        visited[i]=true;
+                        q.push(i);
                     }
                 }
             }
+            ans++;
         }
-        return -1;
+        return ans;
     }
 };
