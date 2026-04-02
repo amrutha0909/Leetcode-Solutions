@@ -11,17 +11,14 @@
  */
 class Solution {
 public:
-    TreeNode*prev=NULL;
     TreeNode*first=NULL;
     TreeNode*second=NULL;
+    TreeNode*prev=NULL;
     void inorder(TreeNode*root){
         if(!root)return;
-        
         inorder(root->left);
         if(prev&&prev->val>root->val){
-            if(!first){
-                first=prev;
-            }
+            if(!first)first=prev;
             second=root;
         }
         prev=root;
