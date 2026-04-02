@@ -1,35 +1,35 @@
 class Solution {
 public:
     string decodeString(string s) {
-        stack<string>stk;
-        string curr="";
+       
         string num="";
+        stack<string>stk;
+        string str="";
         for(char c:s){
-            if(c=='['){
-                stk.push(curr);
-                stk.push(num);
-                curr="";
-                num="";
-            }
-            else if(c==']'){
-                int n=stoi(stk.top());
-                stk.pop();
-                string prev=stk.top();
-                stk.pop();
-                string temp="";
-                for(int i=0;i<n;i++){
-                    temp+=curr;
-                }
-                prev=prev+temp;
-                curr=prev;
-            }
-            else if(isdigit(c)){
+            if(isdigit(c)){
                 num+=c;
             }
+            else if(c=='['){
+                stk.push(str);
+                stk.push(num);
+                num="";
+                str="";
+            }
+            else if(c==']'){
+                int f=stoi(stk.top());
+                stk.pop();
+                string curr=stk.top();
+                stk.pop();
+                string temp="";
+                for(int i=0;i<f;i++){
+                    temp+=str;
+                }
+                str=curr+temp;
+            }
             else{
-                curr+=c;
+                str+=c;
             }
         }
-        return curr;
+        return str;
     }
 };
