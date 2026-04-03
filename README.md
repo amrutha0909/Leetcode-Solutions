@@ -182,6 +182,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0148-sort-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -297,6 +298,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0217-contains-duplicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -378,6 +380,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -758,6 +761,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0980-unique-paths-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 ## Binary Search Tree
 |  |
