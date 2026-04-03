@@ -7,12 +7,10 @@ public:
         for(auto&it:mpp){
             bucket[it.second].push_back(it.first);
         }
-        for(auto&x:bucket){
-            sort(x.begin(),x.end());
-        }
         vector<string>ans;
         int i=bucket.size()-1;
         for(int i = bucket.size() - 1; i >= 0 && k > 0; i--){
+            sort(bucket[i].begin(),bucket[i].end());
             for(string &word : bucket[i]){
                 ans.push_back(word);
                 k--;
