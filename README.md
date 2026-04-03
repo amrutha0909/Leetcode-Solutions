@@ -74,6 +74,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -286,6 +287,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0162-find-peak-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -401,6 +403,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -419,6 +422,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0085-maximal-rectangle](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0542-01-matrix) |
@@ -829,6 +833,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [1268-search-suggestions-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Shortest Path
