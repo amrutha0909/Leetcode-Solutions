@@ -358,6 +358,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2751-robot-collisions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2751-robot-collisions) |
@@ -525,6 +526,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Prefix Sum
 |  |
 | ------- |
