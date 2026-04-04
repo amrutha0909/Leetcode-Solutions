@@ -1,29 +1,29 @@
 class Solution {
 public:
-    bool isValid(int index, int len, string s){
+    bool isValid(int index,int len,string s){
         if(len>3)return false;
         if(index+len>s.size())return false;
-        if(len>1&&s[index]=='0')return false;
-        string segment=s.substr(index,len);
-        return stoi(segment)<=255;
+        if(len>1 && s[index]=='0')return false;
+        string sub=s.substr(index,len);
+        return stoi(sub)<=255;
     }
-    void backtrack(int index,int parts,string current,string s,vector<string>&result){
+    void backtrack(int index,int parts,string curr,string s,vector<string>&res){
         if(parts==4&&index==s.size()){
-            current.pop_back();
-            result.push_back(current);
+            curr.pop_back();
+            res.push_back(curr);
             return;
         }
         if(parts>=4)return;
         for(int len=1;len<=3;len++){
+            string segment=s.substr(index,len);
             if(isValid(index,len,s)){
-                string segment=s.substr(index,len);
-                backtrack(index+len,parts+1,current+segment+".",s,result);
+                backtrack(index+len,parts+1,curr+segment+".",s,res);
             }
         }
     }
     vector<string> restoreIpAddresses(string s) {
-        vector<string>result;
-        backtrack(0,0,"",s,result);
-        return result;
+        vector<string>res;
+        backtrack(0,0,"",s,res);
+        return res;
     }
 };
