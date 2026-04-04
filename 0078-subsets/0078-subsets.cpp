@@ -1,17 +1,17 @@
 class Solution {
 public:
-    void backtrack(int start,vector<vector<int>>&res,vector<int>&nums,vector<int>&temp){
-        res.push_back(temp);
-        for(int i=start;i<nums.size();i++){
+    void backtrack(int index,vector<int>&temp,vector<int>&nums,vector<vector<int>>&result){
+        result.push_back(temp);
+        for(int i=index;i<nums.size();i++){
             temp.push_back(nums[i]);
-            backtrack(i+1,res,nums,temp);
+            backtrack(i+1,temp,nums,result);
             temp.pop_back();
         }
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>res;
+        vector<vector<int>>result;
         vector<int>temp;
-        backtrack(0,res,nums,temp);
-        return res;
+        backtrack(0,temp,nums,result);
+        return result;
     }
 };
