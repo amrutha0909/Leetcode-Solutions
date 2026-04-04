@@ -367,6 +367,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2751-robot-collisions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -783,6 +784,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1710-maximum-units-on-a-truck](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Data Stream
 |  |
