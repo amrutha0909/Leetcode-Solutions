@@ -1,22 +1,33 @@
 class Solution {
 public:
-    bool backtrack(int i, int j, int index, vector<vector<char>>&board, string word){
+    bool dfs(int i,int j,int index,vector<vector<char>>&board,string word,vector<vector<bool>>&visited){
+        visited[i][j]=true;
         if(index==word.size())return true;
         int n=board.size();
         int m=board[0].size();
-        if(i<0||i>=n||j<0||j>=m||board[i][j]!=word[index])return false;
-        char temp=board[i][j];
-        board[i][j]='#';
-        bool found=backtrack(i+1,j,index+1,board,word)||backtrack(i,j+1,index+1,board,word)||backtrack(i-1,j,index+1,board,word)||backtrack(i,j-1,index+1,board,word);
-        board[i][j]=temp;
-        return found;
+        vector<int>dX={-1,0,1,0};
+        vector<int>dY={0,1,0,-1};
+        for(int k=0;k<4;k++){
+            int nx=i+dX[k];
+            int ny=j+dY[k];
+            if(nx>=0&&nx<n&&ny>=0&&ny<m&&!visited[nx][ny]&&board[nx][ny]==word[index]){
+                if(dfs(nx,ny,index+1,board,word,visited))return true;
+            }
+        }
+        visited[i][j]=false;
+        return false;
     }
     bool exist(vector<vector<char>>& board, string word) {
+        bool ans=false;
         int n=board.size();
         int m=board[0].size();
+        vector<vector<bool>>visited(n,vector<bool>(m,false));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(backtrack(i,j,0,board,word))return true;
+                if(word[0]==board[i][j]&&!visited[i][j]){
+                    if(word.size()==1)return true;
+                    if(dfs(i,j,1,board,word,visited))return true;
+                }
             }
         }
         return false;
