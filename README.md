@@ -47,6 +47,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Queue
 |  |
 | ------- |
@@ -359,6 +361,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -839,6 +842,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1192-critical-connections-in-a-network](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -871,6 +875,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0207-course-schedule](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## String Matching
 |  |
 | ------- |
