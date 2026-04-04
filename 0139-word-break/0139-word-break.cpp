@@ -1,17 +1,22 @@
 class Solution {
 public:
     bool wordBreak(string s, vector<string>& wordDict) {
-        unordered_set<string>dictionary(wordDict.begin(),wordDict.end());
-        const int length=s.length();
-        vector<bool>dp(length+1);
-        dp[0]=true;
-        for(int i=1;i<=length;i++){
-            for(int j=0;!dp[i]&&j<i;j++){
-                dp[i]=dp[j]&&dictionary.count(s.substr(j,i-j));
+        queue<int>q;
+        q.push(0);
+        unordered_set<string>st(wordDict.begin(),wordDict.end());
+        vector<bool>visited(s.size(),false);
+        while(!q.empty()){
+            int index=q.front();
+            q.pop();
+            if(visited[index])continue;
+            visited[index]=true;
+            for(int end=index+1;end<=s.size();end++){
+                string sub=s.substr(index,end-index);
+                if(st.find(sub)!=st.end()){
+                    if(end==s.size())return true;
+                    q.push(end);
+                }
             }
-        }
-        if(dp[length]){
-            return true;
         }
         return false;
     }
