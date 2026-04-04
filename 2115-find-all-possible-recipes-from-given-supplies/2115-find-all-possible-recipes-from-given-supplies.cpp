@@ -5,13 +5,13 @@ public:
                      unordered_map<string, bool>& canMake,
                      unordered_map<string, int>& recipeIndex){
                         if(canMake.find(recipe)!=canMake.end())return;
-                        auto it=recipeIndex.find(recipe);
-                        if(it==recipeIndex.end()||visited.count(recipe)){
+                        if(recipeIndex.find(recipe)==recipeIndex.end()||visited.count(recipe)){
                             canMake[recipe]=false;
                             return;
                         }
                         visited.insert(recipe);
-                        for(const string&ingredient:ingredients[it->second]){
+                        int i=recipeIndex[recipe];
+                        for(const string&ingredient:ingredients[i]){
                             checkRecipe(ingredient,ingredients,visited,canMake,recipeIndex);
                             if(!canMake[ingredient]){
                                 canMake[recipe]=false;
