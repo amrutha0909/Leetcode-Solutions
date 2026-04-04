@@ -1,43 +1,49 @@
 class Solution {
 public:
+    bool solved=false;
     int n=3,N=9;
-    int boxes[9][10]={},rows[9][10]={},cols[9][10]={};
-    bool isSolved=false;
-    void placeNumber(int d,int row, int col, vector<vector<char>>&board){
-        int idx=(row/n)*n+(col/n);
-        boxes[idx][d]++;
-        rows[row][d]++;
-        cols[col][d]++;
-        board[row][col]=d+'0';
+    bool rows[10][9]={};
+    bool cols[10][9]={};
+    bool boxes[10][9]={};
+    void fill(int i, int j,int d,vector<vector<char>>&board){
+        board[i][j]=d+'0';
+        int n=board.size(),m=board[0].size();
+        int index=(i/3)*3+(j/3);
+        boxes[d][index]=true;
+        rows[d][i]=true;
+        cols[d][j]=true;
     }
-    void removeNumber(int d,int row, int col, vector<vector<char>>&board){
-        int idx=(row/n)*n+(col/n);
-        boxes[idx][d]--;
-        rows[row][d]--;
-        cols[col][d]--;
-        board[row][col]='.';
+    bool isValid(int i, int j,int d){
+        int index=(i/3)*3+(j/3);
+        if(boxes[d][index]||rows[d][i]||cols[d][j])return false;
+        return true;
     }
-    bool couldPlace(int d,int row, int col, vector<vector<char>>&board){
-        int idx=(row/n)*n+(col/n);
-        return rows[row][d]+cols[col][d]+boxes[idx][d]==0;
+    void remove(int i, int j,int d,vector<vector<char>>&board){
+        int n=board.size(),m=board[0].size();
+        int index=(i/3)*3+(j/3);
+        board[i][j]='.';
+        boxes[d][index]=false;
+        rows[d][i]=false;
+        cols[d][j]=false;
     }
-    void backtrack(int row, int col, vector<vector<char>>&board){
-        if(row==N){
-            isSolved=true;
+    void backtrack(int i,int j,vector<vector<char>>&board){
+        if(i==N){
+            solved=true;
             return;
         }
-        int nextRow=(col==N-1)?row+1:row;
-        int nextCol=(col==N-1)?0:col+1;
-        if(board[row][col]=='.'){
+        int nextRow=(j==N-1)?i+1:i;
+        int nextCol=(j==N-1)?0:j+1;
+        if(board[i][j]=='.'){
             for(int d=1;d<=9;d++){
-                if(couldPlace(d,row,col,board)){
-                    placeNumber(d,row,col,board);
+                if(isValid(i,j,d)){
+                    fill(i,j,d,board);
                     backtrack(nextRow,nextCol,board);
-                    if(isSolved)return;
-                    removeNumber(d,row,col,board);
+                    if(solved)return;
+                    remove(i,j,d,board);
                 }
             }
-        }else{
+        }
+        else{
             backtrack(nextRow,nextCol,board);
         }
     }
@@ -45,7 +51,7 @@ public:
         for(int i=0;i<N;i++){
             for(int j=0;j<N;j++){
                 if(board[i][j]!='.'){
-                    placeNumber(board[i][j]-'0',i,j,board);
+                    fill(i,j,board[i][j]-'0',board);
                 }
             }
         }
