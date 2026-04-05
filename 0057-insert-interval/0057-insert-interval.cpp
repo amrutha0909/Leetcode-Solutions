@@ -1,8 +1,26 @@
 class Solution {
 public:
+    int lowerBound(vector<vector<int>>& intervals, vector<int>& newInterval){
+        int target=newInterval[0];
+        int low=0;
+        int high=intervals.size()-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(intervals[mid][0]>=target){
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
+            }
+        }
+        return low;
+    }
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        intervals.push_back(newInterval);
-        sort(intervals.begin(),intervals.end());
+        if(intervals.empty()){
+            return {newInterval};
+        }
+        int lb=lowerBound(intervals,newInterval);
+        intervals.insert(intervals.begin()+lb,newInterval);
         vector<vector<int>>ans;
         ans.push_back(intervals[0]);
         for(int i=1;i<intervals.size();i++){
