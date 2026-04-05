@@ -287,6 +287,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0053-maximum-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
