@@ -24,6 +24,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0133-clone-graph](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0126-word-ladder-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0212-word-search-ii) |
@@ -233,6 +235,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -303,6 +306,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0130-surrounded-regions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0162-find-peak-element) |
@@ -439,6 +443,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -552,6 +557,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 ## Tree
 |  |
 | ------- |
@@ -893,6 +899,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0472-concatenated-words) |
