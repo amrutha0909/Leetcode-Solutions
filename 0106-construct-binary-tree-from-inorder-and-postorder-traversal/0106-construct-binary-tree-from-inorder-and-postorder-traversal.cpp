@@ -11,21 +11,21 @@
  */
 class Solution {
 public:
-    TreeNode*buildHelper(vector<int>&inorder,vector<int>&postorder,int inorderStart,int inorderEnd,int postorderStart,int postorderEnd,unordered_map<int,int>&index){
+    TreeNode*build(int inorderStart,int inorderEnd,int postorderStart,int postorderEnd,vector<int>&inorder,vector<int>&postorder,unordered_map<int,int>&mpp){
         if(inorderStart>inorderEnd||postorderStart>postorderEnd)return nullptr;
         int rootVal=postorder[postorderEnd];
         TreeNode*root=new TreeNode(rootVal);
-        int inorderRootIndex=index[rootVal];
+        int inorderRootIndex=mpp[rootVal];
         int leftSubtreeSize=inorderRootIndex-inorderStart;
-        root->left=buildHelper(inorder,postorder,inorderStart,inorderRootIndex-1,postorderStart,postorderStart+leftSubtreeSize-1,index);
-        root->right=buildHelper(inorder,postorder,inorderRootIndex+1,inorderEnd,postorderStart+leftSubtreeSize,postorderEnd-1,index);
+        root->left=build(inorderStart,inorderRootIndex-1,postorderStart,postorderStart+leftSubtreeSize-1,inorder,postorder,mpp);
+        root->right=build(inorderRootIndex+1,inorderEnd,postorderStart+leftSubtreeSize,postorderEnd-1,inorder,postorder,mpp);
         return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        unordered_map<int,int>index;
+        unordered_map<int,int>mpp;
         for(int i=0;i<inorder.size();i++){
-            index[inorder[i]]=i;
+            mpp[inorder[i]]=i;
         }
-        return buildHelper(inorder,postorder,0,inorder.size()-1,0,postorder.size()-1,index);
+        return build(0,inorder.size()-1,0,postorder.size()-1,inorder,postorder,mpp);
     }
 };
