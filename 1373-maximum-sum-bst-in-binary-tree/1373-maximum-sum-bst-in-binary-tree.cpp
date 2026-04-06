@@ -13,15 +13,15 @@ class Solution {
 public:
     int maxSum=0;
     tuple<bool,int,int,int>dfs(TreeNode*root){
-        if(!root)return {true,0,INT_MAX,INT_MIN};
-        auto [leftIsBST, leftSum, leftMin, leftMax]=dfs(root->left);
-        auto [rightIsBST, rightSum, rightMin, rightMax]=dfs(root->right);
-        if(leftIsBST && rightIsBST && leftMax<root->val && rightMin>root->val){
+        if(!root)return {true,INT_MAX,INT_MIN,0};
+        auto [leftIsBST,leftMin,leftMax,leftSum]=dfs(root->left);
+        auto [rightIsBST,rightMin,rightMax,rightSum]=dfs(root->right);
+        if(leftIsBST&&rightIsBST&&leftMax<root->val&&rightMin>root->val){
             int sum=leftSum+rightSum+root->val;
             maxSum=max(maxSum,sum);
-            int minVal=min(root->val,leftMin);
-            int maxVal=max(root->val,rightMax);
-            return {true,sum,minVal,maxVal};
+            int minVal=min(leftMin,root->val);
+            int maxVal=max(rightMax,root->val);
+            return {true,minVal,maxVal,sum};
         }
         return {false,0,0,0};
     }
