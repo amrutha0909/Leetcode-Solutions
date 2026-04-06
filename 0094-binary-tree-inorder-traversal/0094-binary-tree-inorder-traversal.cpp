@@ -15,23 +15,23 @@ public:
         vector<int>inorder;
         TreeNode*curr=root;
         while(curr){
-            if(curr->left==nullptr){
+            if(!curr->left){
                 inorder.push_back(curr->val);
                 curr=curr->right;
             }
-            else if(curr->left){
-                TreeNode*prev=curr->left;
-                while(prev->right && prev->right!=curr){
-                    prev=prev->right;
+            else{
+                TreeNode*pred=curr->left;
+                while(pred->right&&pred->right!=curr){
+                    pred=pred->right;
                 }
-                if(prev->right==nullptr){
-                    prev->right=curr;
+                if(pred->right==nullptr){
+                    pred->right=curr;
                     curr=curr->left;
                 }
-                else if(prev->right){
-                    prev->right=nullptr;
+                else{
+                    pred->right=nullptr;
                     inorder.push_back(curr->val);
-                    curr=curr->right;  
+                    curr=curr->right;
                 }
             }
         }
