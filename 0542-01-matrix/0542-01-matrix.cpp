@@ -1,34 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int n=mat.size();
-        int m=mat[0].size();
-        queue<pair<pair<int,int>,int>>q;
+        int n=mat.size(),m=mat[0].size();
         vector<vector<int>>dist(n,vector<int>(m,0));
         vector<vector<bool>>visited(n,vector<bool>(m,false));
+        queue<pair<int,pair<int,int>>>q;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
                     visited[i][j]=true;
-                    q.push({{i,j},0});
+                    q.push({0,{i,j}});
                 }
             }
         }
         while(!q.empty()){
             auto it=q.front();
             q.pop();
-            int x=it.first.first;
-            int y=it.first.second;
-            int steps=it.second;
+            int d=it.first;
+            int i=it.second.first;
+            int j=it.second.second;
+            dist[i][j]=d;
             vector<int>dX={-1,0,1,0};
             vector<int>dY={0,1,0,-1};
-            dist[x][y]=steps;
-            for(int i=0;i<4;i++){
-                int nx=x+dX[i];
-                int ny=y+dY[i];
+            for(int k=0;k<4;k++){
+                int nx=i+dX[k];
+                int ny=j+dY[k];
                 if(nx>=0&&nx<n&&ny>=0&&ny<m&&!visited[nx][ny]){
                     visited[nx][ny]=true;
-                    q.push({{nx,ny},steps+1});
+                    q.push({d+1,{nx,ny}});
                 }
             }
         }
