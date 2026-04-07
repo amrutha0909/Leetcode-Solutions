@@ -4,7 +4,7 @@ public:
         colors[node]=color;
         for(auto it:graph[node]){
             if(colors[it]==-1){
-                dfs(it,1-color,graph,colors);
+                if(!dfs(it,1-color,graph,colors))return false;
             }
             else{
                 if(colors[it]==colors[node])return false;
