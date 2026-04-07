@@ -964,4 +964,8 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
