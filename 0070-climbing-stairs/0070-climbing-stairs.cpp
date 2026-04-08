@@ -5,8 +5,9 @@ public:
         if(index==n-2)return 2;
         if(index==n)return 0;
         if(dp[index]!=-1)return dp[index];
-        return dp[index]=helper(index+1,n,dp)+helper(index+2,n,dp);
-        
+        int way1=helper(index+1,n,dp);
+        int way2=helper(index+2,n,dp);
+        return dp[index]=way1+way2;
     }
     int climbStairs(int n) {
         vector<int>dp(n+1,-1);
