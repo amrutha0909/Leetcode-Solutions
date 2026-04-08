@@ -13,16 +13,22 @@ public:
             prev=nullptr;
         }
     };
-    unordered_map<int,Node*>mpp;
-    int capacity;
     Node*head;
     Node*tail;
+    unordered_map<int,Node*>mpp;
+    int capacity;
     LRUCache(int capacity) {
         this->capacity=capacity;
         head=new Node(-1,-1);
         tail=new Node(-1,-1);
         head->next=tail;
         tail->prev=head;
+    }
+    void remove(Node*node){
+        Node*prevNode=node->prev;
+        Node*nextNode=node->next;
+        prevNode->next=nextNode;
+        nextNode->prev=prevNode;
     }
     void insert(Node*node){
         Node*nextNode=head->next;
@@ -31,20 +37,13 @@ public:
         node->next=nextNode;
         nextNode->prev=node;
     }
-    void remove(Node*node){
-        Node*prevNode=node->prev;
-        Node*nextNode=node->next;
-        prevNode->next=nextNode;
-        nextNode->prev=prevNode;
-    }
     int get(int key) {
-        if(mpp.find(key)==mpp.end())return -1;
-        Node*node=mpp[key];
-        remove(node);
-        insert(node);
-        return node->val;
-    }
-    
+        if(mpp.find(key)==mpp.end())return -1; 
+        Node*existing=mpp[key];
+        remove(existing);
+        insert(existing);
+        return existing->val;
+    } 
     void put(int key, int value) {
         Node*node=new Node(key,value);
         if(mpp.find(key)!=mpp.end()){
