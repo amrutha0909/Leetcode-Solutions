@@ -4,15 +4,18 @@ public:
         sort(products.begin(),products.end());
         int n=searchWord.size();
         vector<vector<string>>res;
-        for(int i=1;i<=n;i++){
-            string sub=searchWord.substr(0,i);
+        int l=0,r=products.size()-1;
+        for(int i=0;i<n;i++){
+            char c=searchWord[i];
+            while(l<=r && (products[l].size()<=i||products[l][i]!=c)){
+                l++;
+            }
+            while(l<=r && (products[r].size()<=i|| products[r][i]!=c)){
+                r--;
+            }
             vector<string>ans;
-            int count=0;
-            for(string s:products){
-                if(s.starts_with(sub)&&count<3){
-                    count++;
-                    ans.push_back(s);
-                }
+            for(int j=0;j<min(3,r-l+1);j++){
+                ans.push_back(products[l+j]);
             }
             res.push_back(ans);
         }
