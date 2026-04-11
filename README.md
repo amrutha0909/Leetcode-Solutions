@@ -32,6 +32,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0217-contains-duplicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -175,6 +176,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0973-k-closest-points-to-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -333,6 +335,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0300-longest-increasing-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
@@ -792,6 +795,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0225-implement-stack-using-queues](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0901-online-stock-span) |
@@ -974,4 +978,8 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
