@@ -138,6 +138,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0767-reorganize-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1603-design-parking-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
@@ -511,6 +512,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0043-multiply-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1603-design-parking-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -807,6 +809,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0703-kth-largest-element-in-a-stream](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Monotonic Stack
 |  |
 | ------- |
