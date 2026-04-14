@@ -54,6 +54,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2965-find-missing-and-repeated-values](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -188,6 +189,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1492-the-kth-factor-of-n](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
@@ -401,6 +403,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [2906-construct-product-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -508,6 +511,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
