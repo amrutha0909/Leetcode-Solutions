@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int jump(vector<int>& nums) {   
+    int jump(vector<int>& nums) {
         int currEnd=0;
         int farthest=0;
         int jumps=0;
