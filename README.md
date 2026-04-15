@@ -307,6 +307,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0053-maximum-subarray](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -775,6 +776,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0016-3sum-closest](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0169-majority-element) |
