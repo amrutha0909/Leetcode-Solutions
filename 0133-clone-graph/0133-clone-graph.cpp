@@ -22,22 +22,29 @@ public:
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
+        //create a map that stores original and clone nodes
+        //store the root and its clone in the map
+        //push the root in a queue to perform bfs on the adjacent nodes
+        //if clone of neighbour node does not exist in the map->create a new clone node 
+        //mpp[node]->neighbors.push_back(mpp[neigh]) => mpp[neigh] is the clone of neigh, so we push it into the clone neighbors vector mpp[node]->neighbors
         if(!node)return nullptr;
-        Node*cloneRoot=new Node(node->val);
         unordered_map<Node*,Node*>mpp;
+        Node*cloneRoot=new Node(node->val);
         mpp[node]=cloneRoot;
         queue<Node*>q;
         q.push(node);
         while(!q.empty()){
-            auto curr=q.front();q.pop();
-            for(auto neigh:curr->neighbors){
+            auto node=q.front();
+            q.pop();
+            for(auto neigh:node->neighbors){
                 if(mpp.find(neigh)==mpp.end()){
-                    Node*neighClone=new Node(neigh->val);
-                    mpp[neigh]=neighClone;
+                    Node*cloneNeigh=new Node(neigh->val);
+                    mpp[neigh]=cloneNeigh;
                     q.push(neigh);
                 }
-                mpp[curr]->neighbors.push_back(mpp[neigh]);
+                mpp[node]->neighbors.push_back(mpp[neigh]);
             }
+            
         }
         return cloneRoot;
     }
