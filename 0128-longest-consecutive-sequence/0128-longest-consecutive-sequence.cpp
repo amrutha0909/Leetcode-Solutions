@@ -8,8 +8,8 @@ public:
                 int curr=num;
                 int count=1;
                 while(s.count(curr+1)){
-                    count++;
                     curr++;
+                    count++;
                 }
                 longest=max(longest,count);
             }
