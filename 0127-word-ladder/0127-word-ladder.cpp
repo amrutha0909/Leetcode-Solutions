@@ -1,30 +1,35 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        unordered_set<string>st(wordList.begin(),wordList.end());
-        queue<string>q;
-        q.push(beginWord);
-        st.erase(beginWord);
+        unordered_set<string>dict(wordList.begin(),wordList.end());
+        unordered_set<string>beginSet{beginWord};
+        unordered_set<string>endSet{endWord};
+        unordered_set<string>vis;
+        if(dict.count(endWord)==0)return 0;
         int steps=1;
-        while(!q.empty()){
-            int len=q.size();
-            for(int i=0;i<len;i++){
-                string word=q.front();
-                q.pop();
-                if(word==endWord)return steps;
-                for(int i=0;i<word.size();i++){
-                    char temp=word[i];
+        while(!beginSet.empty() && !endSet.empty()){
+            if(endSet.size()<beginSet.size()){
+                swap(endSet,beginSet);
+            }
+            unordered_set<string>nextSet;
+            for(string word:beginSet){
+                string current=word;
+                for(int i=0;i<current.size();i++){
+                    char temp=current[i];
                     for(char c='a';c<='z';c++){
-                        word[i]=c;
-                        if(st.count(word)){
-                            st.erase(word);
-                            q.push(word);
+                        if(c==temp)continue;
+                        current[i]=c;
+                        if(endSet.count(current))return steps+1;
+                        if(dict.count(current) && !vis.count(current)){
+                            nextSet.insert(current);
+                            vis.insert(current);
                         }
                     }
-                    word[i]=temp;
+                    current[i]=temp;
                 }
             }
-            if(!q.empty())steps++;
+            beginSet=nextSet;
+            steps++;
         }
         return 0;
     }
