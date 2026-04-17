@@ -55,6 +55,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2965-find-missing-and-repeated-values](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -191,6 +192,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -411,6 +413,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
