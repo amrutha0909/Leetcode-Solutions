@@ -10,7 +10,6 @@
  */
 class Solution {
 public:
-
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         int count=0;
         if(!head)return nullptr;
@@ -32,7 +31,7 @@ public:
         for(int i=1;i<pos-1;i++){
             temp=temp->next;
         }
-        if(temp&&temp->next&&temp->next->next)temp->next=temp->next->next;
+        if(temp->next && temp->next->next)temp->next=temp->next->next;
         else temp->next=nullptr;
         return head;
     }
