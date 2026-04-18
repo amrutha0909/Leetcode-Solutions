@@ -157,6 +157,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0084-largest-rectangle-in-histogram](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -210,6 +211,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0075-sort-colors](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -544,6 +546,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -562,6 +565,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0025-reverse-nodes-in-k-group](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
