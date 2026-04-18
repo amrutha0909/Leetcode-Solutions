@@ -11,23 +11,27 @@
 class Solution {
 public:
     struct compare{
-        bool operator()(ListNode* a, ListNode* b) {
-            return a->val > b->val;
+        bool operator()(ListNode*a,ListNode*b){
+            return a->val>b->val;
         }
     };
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*,vector<ListNode*>,compare>pq;
-        for(auto head:lists){
-            if(head)pq.push(head);  
-        }
-        ListNode*dummy=new ListNode(0);
-        ListNode*curr=dummy;
+        if(lists.empty())return nullptr;
+        priority_queue<ListNode*,vector<ListNode*>,compare>pq; 
+        for(ListNode*list:lists){
+            if(list)pq.push(list);
+        }   
+        ListNode*dummy=new ListNode(-1);
+        ListNode*temp=dummy;
         while(!pq.empty()){
-            ListNode*node=pq.top();
+            auto curr=pq.top();
             pq.pop();
-            curr->next=node;
-            curr=curr->next;
-            if(node->next)pq.push(node->next);
+            temp->next=curr;
+            if(curr->next){
+                pq.push(curr->next);
+                curr=curr->next;
+            }
+            temp=temp->next;
         }
         return dummy->next;
     }
