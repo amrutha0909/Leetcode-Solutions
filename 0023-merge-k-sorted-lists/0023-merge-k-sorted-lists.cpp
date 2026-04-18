@@ -29,7 +29,6 @@ public:
             temp->next=curr;
             if(curr->next){
                 pq.push(curr->next);
-                curr=curr->next;
             }
             temp=temp->next;
         }
