@@ -10,15 +10,16 @@ public:
         left.push(num);
         right.push(left.top());
         left.pop();
-        if(right.size()>left.size()){
+        while(right.size()>left.size()){
             left.push(right.top());
             right.pop();
         }
+
     }
     
     double findMedian() {
         if(left.size()>right.size())return left.top();
-        return ((double)left.top()+(double)right.top())/2.0;
+        return (left.top()+right.top())/2.0;
     }
 };
 
