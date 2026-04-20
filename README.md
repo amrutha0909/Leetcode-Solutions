@@ -402,6 +402,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1710-maximum-units-on-a-truck](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -863,6 +864,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1710-maximum-units-on-a-truck](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
