@@ -127,6 +127,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2833-furthest-point-from-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Queue
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1603-design-parking-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2833-furthest-point-from-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
 | ------- |
