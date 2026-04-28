@@ -11,13 +11,13 @@
  */
 class Solution {
 public:
-    bool subtree(TreeNode*a,TreeNode*b){
+    bool subtree(TreeNode*a, TreeNode*b){
         if(!a && !b)return true;
         if(!a || !b)return false;
-        return (a->val==b->val) && subtree(a->left,b->right) && subtree(a->right,b->left);        
+        if(a->val!=b->val)return false;
+        return subtree(a->left,b->right) && subtree(a->right,b->left);
     }
     bool isSymmetric(TreeNode* root) {
-        
         return subtree(root->left,root->right);
     }
 };
