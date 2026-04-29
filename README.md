@@ -230,6 +230,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
@@ -384,6 +385,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0778-swim-in-rising-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
@@ -822,6 +824,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0721-accounts-merge](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -875,6 +878,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0435-non-overlapping-intervals](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1710-maximum-units-on-a-truck](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
