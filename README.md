@@ -1039,6 +1039,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
