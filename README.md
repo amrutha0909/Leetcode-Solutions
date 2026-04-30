@@ -1040,6 +1040,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1683-invalid-tweets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 ## Randomized
 |  |
 | ------- |
