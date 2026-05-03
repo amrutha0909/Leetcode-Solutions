@@ -113,6 +113,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0721-accounts-merge](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
@@ -986,6 +987,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
