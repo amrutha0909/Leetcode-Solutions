@@ -3,7 +3,7 @@ class Solution {
         Set<Integer>st=new HashSet<>();
         for(int num:nums)st.add(num);
         int maxLen=0;
-        for(int num:nums){
+        for(int num:st){
             if(!st.contains(num-1)){
                 int curr=num;
                 int count=1;
