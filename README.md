@@ -207,6 +207,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0011-container-with-most-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0027-remove-element) |
@@ -298,6 +299,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0011-container-with-most-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0031-next-permutation) |
@@ -808,6 +810,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0015-3sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0056-merge-intervals) |
