@@ -7,14 +7,12 @@ class Solution {
         int candidate2=0;
         for(int num:nums){
             if(count1==0 && num!=candidate2){
-                count1=1;
                 candidate1=num;
             }
             else if(count2==0 && num!=candidate1){
-                count2=1;
                 candidate2=num;
             }
-            else if(num==candidate1){
+            if(num==candidate1){
                 count1++;
             }
             else if(num==candidate2){
