@@ -419,6 +419,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -547,6 +548,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0735-asteroid-collision](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Linked List
