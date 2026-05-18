@@ -55,6 +55,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1993-operations-on-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1993-operations-on-tree) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2965-find-missing-and-repeated-values](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -413,6 +414,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1710-maximum-units-on-a-truck](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1993-operations-on-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1993-operations-on-tree) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -666,6 +668,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1993-operations-on-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1993-operations-on-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -721,6 +724,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1993-operations-on-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1993-operations-on-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -806,6 +810,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1993-operations-on-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1993-operations-on-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
 |  |
@@ -864,6 +869,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0895-maximum-frequency-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1603-design-parking-system) |
+| [1993-operations-on-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1993-operations-on-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
