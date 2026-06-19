@@ -414,6 +414,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1993-operations-on-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1993-operations-on-tree) |
@@ -616,6 +617,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0713-subarray-product-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2906-construct-product-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
