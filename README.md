@@ -51,6 +51,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -121,6 +122,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1071-greatest-common-divisor-of-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1268-search-suggestions-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -148,6 +150,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1189-maximum-number-of-balloons](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1603-design-parking-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
