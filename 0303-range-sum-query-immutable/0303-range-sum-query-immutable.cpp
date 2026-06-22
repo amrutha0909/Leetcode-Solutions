@@ -6,11 +6,12 @@ public:
     }
     
     int sumRange(int left, int right) {
-        int sum=0;
-        for(int i=left;i<=right;i++){
-            sum+=nums[i];
+        vector<int>prefix(nums.size());
+        prefix[0]=nums[0];
+        for(int i=1;i<nums.size();i++){
+            prefix[i]=nums[i]+prefix[i-1];
         }
-        return sum;
+        return prefix[right]-prefix[left]+nums[left];
     }
 };
 
