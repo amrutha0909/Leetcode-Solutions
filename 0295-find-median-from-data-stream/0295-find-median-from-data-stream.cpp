@@ -14,7 +14,6 @@ public:
             left.push(right.top());
             right.pop();
         }
-
     }
     
     double findMedian() {
