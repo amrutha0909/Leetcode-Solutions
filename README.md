@@ -202,6 +202,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0224-basic-calculator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0973-k-closest-points-to-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
