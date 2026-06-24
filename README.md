@@ -29,6 +29,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0146-lru-cache](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -196,6 +197,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0050-powx-n](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
@@ -232,6 +234,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0148-sort-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
