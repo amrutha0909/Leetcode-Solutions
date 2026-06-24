@@ -2,21 +2,22 @@ class Solution {
 public:
     int calculate(string s) {
         stack<int>st;
-        long res=0;
-        long curr=0;
+        int curr=0;
+        int res=0;
         int sign=1;
         for(char c:s){
             if(isdigit(c)){
-                curr=curr*10+(c-'0');
-            }else if(c=='+'){
+               curr=curr*10+(c-'0');
+            }
+            else if(c=='+'){
                 res+=sign*curr;
-                sign=1;
                 curr=0;
+                sign=1;
             }
             else if(c=='-'){
                 res+=sign*curr;
-                sign=-1;
                 curr=0;
+                sign=-1;
             }
             else if(c=='('){
                 st.push(res);
