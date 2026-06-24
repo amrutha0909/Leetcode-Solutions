@@ -123,6 +123,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0767-reorganize-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0824-goat-latin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
