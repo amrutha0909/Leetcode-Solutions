@@ -17,12 +17,14 @@ public:
                 res+=sign*curr;
                 sign=-1;
                 curr=0;
-            }else if(c=='('){
+            }
+            else if(c=='('){
                 st.push(res);
                 st.push(sign);
                 res=0;
                 sign=1;
-            }else if(c==')'){
+            }
+            else if(c==')'){
                 res+=sign*curr;
                 curr=0;
                 res*=st.top();st.pop();
