@@ -18,9 +18,8 @@ class Solution {
 public:
     Node* copyRandomList(Node* head) {
         if(!head)return nullptr;
-        Node*temp=head;
-        Node*newList=new Node(head->val);
         unordered_map<Node*,Node*>mpp;
+        Node*temp=head;
         while(temp){
             mpp[temp]=new Node(temp->val);
             temp=temp->next;
@@ -32,5 +31,6 @@ public:
             temp=temp->next;
         }
         return mpp[head];
+
     }
 };
