@@ -1,8 +1,10 @@
 class Solution {
 public:
-    bool helper(string s, int left, int right){
-        while(left<=right){
-            if(s[left]!=s[right])return false;
+    bool isPalindrome(int left,int right,string s){
+        while(left<right){
+            if(s[left]!=s[right]){
+                return false;
+            }
             left++;
             right--;
         }
@@ -11,9 +13,9 @@ public:
     bool validPalindrome(string s) {
         int left=0;
         int right=s.size()-1;
-        while(left<=right){
+        while(left<right){
             if(s[left]!=s[right]){
-                return helper(s,left+1,right)||helper(s,left,right-1);
+                return isPalindrome(left+1,right,s)||isPalindrome(left,right-1,s);
             }
             left++;
             right--;
