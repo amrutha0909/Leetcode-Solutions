@@ -18,19 +18,18 @@ public:
             temp=temp->next;
         }
         if(count<k)return head;
-        count=0;
-        temp=head;
         ListNode*prev=nullptr;
         ListNode*front=nullptr;
-        while(temp && count<k){
+        temp=head;
+        count=0;
+        while(count<k && temp){
             count++;
             front=temp->next;
             temp->next=prev;
             prev=temp;
             temp=front;
         }
-        if(temp!=nullptr)head->next=reverseKGroup(temp,k);
+        if(temp)head->next=reverseKGroup(temp,k);
         return prev;
-
     }
 };
