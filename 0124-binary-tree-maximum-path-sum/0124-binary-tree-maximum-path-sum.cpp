@@ -20,6 +20,7 @@ public:
         return root->val+max(left,right);
     }
     int maxPathSum(TreeNode* root) {
+        if(!root)return 0;
         dfs(root);
         return maxSum;
     }
