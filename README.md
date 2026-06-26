@@ -84,6 +84,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0044-wildcard-matching](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -197,6 +198,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0043-multiply-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -572,6 +574,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | ------- |
 | [0043-multiply-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1603-design-parking-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1603-design-parking-system) |
@@ -947,6 +950,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0136-single-number) |
