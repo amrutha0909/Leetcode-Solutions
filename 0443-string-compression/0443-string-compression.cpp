@@ -1,25 +1,21 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        string word="";
-        word+=chars[0];
-        string ans="";
-        for(int i=1;i<chars.size();i++){
-            if(chars[i]==chars[i-1]){
-                word+=chars[i];
+        int i=0;
+        int res=0;
+        while(i<chars.size()){
+            int groupLength=1;
+            while(i+groupLength<chars.size() && chars[i+groupLength]==chars[i]){
+                groupLength++;
             }
-            else{
-                ans+=word.back();
-                if(word.size()>1)ans+=to_string(word.size());
-                word="";
-                word+=chars[i];
+            chars[res++]=chars[i];
+            if(groupLength>1){
+                for(char c:to_string(groupLength)){
+                    chars[res++]=c;
+                }
             }
+            i+=groupLength;
         }
-        ans+=word.back();
-        ans+=word.size()>1?to_string(word.size()):"";
-        for(int i=0;i<ans.size();i++){
-            chars[i]=ans[i];
-        }
-        return ans.size();
+        return res;
     }
 };
