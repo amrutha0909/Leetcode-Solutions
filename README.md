@@ -141,6 +141,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2833-furthest-point-from-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -446,6 +447,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1732-find-the-highest-altitude](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-operations-on-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1993-operations-on-tree) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
