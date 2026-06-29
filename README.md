@@ -61,6 +61,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1993-operations-on-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1993-operations-on-tree) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -450,6 +451,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
@@ -639,6 +641,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
