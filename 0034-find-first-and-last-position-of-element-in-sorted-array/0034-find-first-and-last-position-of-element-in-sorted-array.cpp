@@ -1,48 +1,37 @@
 class Solution {
 public:
-    int findLBorFirstOccurence(vector<int>&nums,int target){
-        int n=nums.size();
-        int low=0;
-        int high=n-1;
-        int ans=-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-                ans=mid;
-                high=mid-1;
-            }
-            else if(nums[mid]>target){
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
-            }
+    int upperBound(vector<int>&nums, int target, int low, int high, int ans){
+        if(low>high)return ans;
+        int mid=low+(high-low)/2;
+        if(nums[mid]==target){
+            ans=mid;
+            return upperBound(nums,target,mid+1,high,ans);
         }
-        return ans;
+        else if(nums[mid]>target){
+            return upperBound(nums,target,low,mid-1,ans);
+        }
+        else{
+            return upperBound(nums,target,mid+1,high,ans);
+        }
     }
-    int findUBorLastOccurence(vector<int>&nums,int target){
-        int n=nums.size();
-        int low=0;
-        int high=n-1;
-        int ans=-1;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-                ans=mid;
-                low=mid+1;
-            }
-            else if(nums[mid]<target){
-                low=mid+1;
-            }
-            else{
-                high=mid-1;
-            }
+    int lowerBound(vector<int>&nums, int target, int low, int high, int ans){
+        if(low>high)return ans;
+        int mid=low+(high-low)/2;
+        if(nums[mid]==target){
+            ans=mid;
+            return lowerBound(nums,target,low,mid-1,ans);
         }
-        return ans;
+        else if(nums[mid]>target){
+            return lowerBound(nums,target,low,mid-1,ans);
+        }
+        else{
+            return lowerBound(nums,target,mid+1,high,ans);
+        }
     }
     vector<int> searchRange(vector<int>& nums, int target) {
-        int x=findLBorFirstOccurence(nums,target);
-        int y=findUBorLastOccurence(nums,target);
-        return {x,y};
+        int n=nums.size();
+        int l=lowerBound(nums,target,0,n-1,-1);
+        int h=upperBound(nums,target,0,n-1,-1);
+        return {l,h};
     }
 };
