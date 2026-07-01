@@ -119,6 +119,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0516-longest-palindromic-subsequence](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0709-to-lower-case) |
@@ -188,6 +189,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0394-decode-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
@@ -307,6 +309,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0518-coin-change-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
@@ -944,6 +947,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
