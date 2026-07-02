@@ -2,13 +2,11 @@ class MyQueue {
 public:
     stack<int>s1;
     stack<int>s2;
-    int front;
     MyQueue() {
         
     }
     
     void push(int x) {
-        if(s1.empty())front=x;
         while(!s1.empty()){
             s2.push(s1.top());
             s1.pop();
@@ -23,13 +21,12 @@ public:
     int pop() {
         int res=s1.top();
         s1.pop();
-        if(!s1.empty())front=s1.top();
         return res;
 
     }
     
     int peek() {
-        return front;
+        return s1.top();
     }
     
     bool empty() {
