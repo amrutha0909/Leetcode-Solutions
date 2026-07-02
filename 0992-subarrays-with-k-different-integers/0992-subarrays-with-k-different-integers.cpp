@@ -1,9 +1,9 @@
 class Solution {
 public:
-    int helper(vector<int>& nums, int k){
-        unordered_map<int,int>mpp;
+    int helper(vector<int>&nums,int k){
         int count=0;
         int left=0;
+        unordered_map<int,int>mpp;
         for(int right=0;right<nums.size();right++){
             mpp[nums[right]]++;
             while(mpp.size()>k){
@@ -16,7 +16,6 @@ public:
         return count;
     }
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        
         return helper(nums,k)-helper(nums,k-1);
     }
 };
