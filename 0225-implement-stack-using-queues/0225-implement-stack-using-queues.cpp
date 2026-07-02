@@ -13,11 +13,10 @@ public:
             q1.pop();
         }
         swap(q1,q2);
-        
     }
     
     int pop() {
-        int val = q1.front();
+        int val=q1.front();
         q1.pop();
         return val;
     }
