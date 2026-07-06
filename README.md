@@ -189,6 +189,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0232-implement-queue-using-stacks](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -216,6 +217,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0224-basic-calculator](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0973-k-closest-points-to-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -623,6 +625,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0206-reverse-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
