@@ -448,6 +448,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1331-rank-transform-of-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -911,6 +912,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1268-search-suggestions-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1051,6 +1053,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0787-cheapest-flights-within-k-stops](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Quickselect
