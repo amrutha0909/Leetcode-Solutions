@@ -219,6 +219,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0441-arranging-coins](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -417,6 +418,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0540-single-element-in-a-sorted-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -900,6 +902,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0435-non-overlapping-intervals](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0472-concatenated-words) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0761-special-binary-string) |
