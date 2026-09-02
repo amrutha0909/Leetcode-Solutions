@@ -232,6 +232,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -485,6 +486,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [3546-equal-sum-grid-partition-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
