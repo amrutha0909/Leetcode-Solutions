@@ -1,15 +1,18 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char>st;
         unordered_map<char,char>mpp={{')','('},{']','['},{'}','{'}};
+        stack<char>stk;
         for(char c:s){
-            if(c=='('||c=='['||c=='{')st.push(c);
+            if(c=='(' || c=='[' || c=='{'){
+                stk.push(c);
+            }
             else{
-                if(!st.empty()&&st.top()==mpp[c])st.pop();
-                else return false;
+                if(stk.empty())return false;
+                else if(stk.top()!=mpp[c])return false;
+                stk.pop();
             }
         }
-        return st.empty();
+        return stk.empty();
     }
 };
