@@ -1155,4 +1155,8 @@ This repository contains solutions to all the Leetcode problems I have solved
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
