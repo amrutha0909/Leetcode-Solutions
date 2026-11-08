@@ -166,6 +166,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0992-subarrays-with-k-different-integers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1603-design-parking-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -447,6 +448,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -584,6 +586,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -788,6 +791,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1267-count-servers-that-communicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -878,6 +882,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0994-rotting-oranges](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1026,6 +1031,7 @@ This repository contains solutions to all the Leetcode problems I have solved
 | [0778-swim-in-rising-water](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amrutha0909/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph Theory
